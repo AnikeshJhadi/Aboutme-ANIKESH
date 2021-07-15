@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnikeshJhadi
-- 👀 I’m interested in web development 
+- 👀 I’m a biomedical engineering undergraduate from NIT Raipur
 - 🌱 I’m currently learning Python programming
-- 💞️ I’m looking to collaborate on projects on C++
+- 💞️ I’m looking to collaborate on the projects of C++ and Python
 - 📫 How to reach me ...Mail me jhadianikesh@gmail.com
 
 <!---
